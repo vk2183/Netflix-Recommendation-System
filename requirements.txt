@@ -1,4 +1,4 @@
-python
-streamlit
-pandas
-pickle
+python==3.8
+streamlit==0.83.0
+pandas==1.2.1
+pickleshare==0.7.5
